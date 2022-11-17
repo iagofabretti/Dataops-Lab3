@@ -12,7 +12,7 @@ Parameters:
   iamprofile:
     Type: String
 
-# Recursos que serão provisionados
+# Recursos que serão provisionados.
 Resources:  
   # Security Group para provisionar EC2
   SecurityGroup:
